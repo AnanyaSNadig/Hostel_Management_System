@@ -11,7 +11,7 @@ Streamlit and MySQL are used in this project.
 
 ### **FRONTEND:**
 
-Python library Stremlit is used.
+Python library Streamlit is used.
 
 CRUD operations have been implemented.
 
